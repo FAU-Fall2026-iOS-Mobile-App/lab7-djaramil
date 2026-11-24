@@ -1,0 +1,8 @@
+// Safe defaults when Secrets.xcconfig is absent (overridden by Secrets.xcconfig).
+TRUSSED_API_KEY =
+FAULLM_API_KEY =
+CHATGPT_API_KEY =
+GEMINI_API_KEY =
+
+// Project-wide build settings. Optional secrets file is included when present.
+#include? "Secrets.xcconfig"

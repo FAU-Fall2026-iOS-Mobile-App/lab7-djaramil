@@ -1,0 +1,11 @@
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# macOS
+.DS_Store
+
+# Secrets — never commit API keys
+Config/Secrets.xcconfig

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TRUSSED_API_KEY</key>
+	<string>$(TRUSSED_API_KEY)</string>
+	<key>FAULLM_API_KEY</key>
+	<string>$(FAULLM_API_KEY)</string>
+	<key>CHATGPT_API_KEY</key>
+	<string>$(CHATGPT_API_KEY)</string>
+	<key>GEMINI_API_KEY</key>
+	<string>$(GEMINI_API_KEY)</string>
+</dict>
+</plist>

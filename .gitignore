@@ -1,0 +1,23 @@
+# Secrets — never commit API keys
+.env
+.env.*
+!.env.example
+TrussedChat/Config/Secrets.xcconfig
+**/Secrets.xcconfig
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
